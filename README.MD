@@ -4,7 +4,7 @@
 
 A back-end app using Express and Sequelize to handle API calls and execute CRUD commands on the database.
 
-[!Screenshot][assets/Insomnia Screenshot.png]
+[!Screenshot](assets/Insomnia Screenshot.png)
 
 Link to walkthrough video: https://www.loom.com/share/a9d48c6bf398474f938f019afd3922ce
 
